@@ -1,0 +1,25 @@
+# --- Unity Folders to Ignore ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# --- Visual Studio / IDE Files ---
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.suo
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Plastic SCM ---
+.plastic/
