@@ -2,6 +2,9 @@
 **Associate Unity Developer Technical Test**
 **Dhiyanesh G — IIT Guwahati**
 
+
+Direct Link for APK - https://drive.google.com/drive/folders/1zjRfPZ34PfurDDXu9e9A09qeRUJr0DQG?usp=sharing
+
 ---
 
 ## Build Info
