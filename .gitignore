@@ -16,6 +16,7 @@
 *.userprefs
 *.pidb
 *.suo
+*.utmp
 
 # --- OS Specific ---
 .DS_Store
